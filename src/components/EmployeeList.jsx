@@ -25,6 +25,11 @@ export default function EmployeeList() {
         src={data['employee 4']['photo']}
         Name={data['employee 4']['name']}
         position={data['employee 4']['position']}/>
+
+        <EmployeeListItem
+        src={data['employee 5']['photo']}
+        Name={data['employee 5']['name']}
+        position={data['employee 5']['position']}/>
       </div>
     </>
   )

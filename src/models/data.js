@@ -18,6 +18,11 @@ const data = {
         'name': 'Benicio Del Toro',
         'position': 'VP of Engineering',
         'photo': 'https://media.istockphoto.com/id/1223747995/vector/smiling-bald-man-head-avatar-beautiful-human-face-male-cartoon-character-portrait.jpg?s=1024x1024&w=is&k=20&c=zffaUbdBA8-6zVr4F3kPMZSKjufJNiv4W6vINDpy-vE='
+    },
+    'employee 5': {
+        'name': 'Olivia Olive',
+        'position': 'VP of Sales',
+        'photo': 'https://png.pngtree.com/png-clipart/20220124/ourmid/pngtree-women-s-id-photo-cartoon-black-head-blue-dress-girl-png-image_4265534.png'
     }
 }
 
